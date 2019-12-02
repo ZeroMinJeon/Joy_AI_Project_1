@@ -60,7 +60,8 @@ Reviewed: No
 ## 실행방법
 
 - 노트북으로 돌리기에 무겁기에 저희는 Colab에서 사용할 것 입니다.
-- 위의 URL을 타고 들어갑니다.
+- 아래의 링크를 클릭해주세요
+- https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb
 - 순서대로 실행하면 됩니다.
 
 ## Project Data
